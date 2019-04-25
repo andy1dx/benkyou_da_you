@@ -1,0 +1,4 @@
+# ignore all logs
+*.log
+backend_node/node_modules/*
+frontend_vue/node_modules/*
