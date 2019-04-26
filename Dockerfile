@@ -1,4 +1,4 @@
-FROM node:8-alpine
+FROM node:11.1
 
 RUN npm install -g nodemon
 
